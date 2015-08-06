@@ -28,3 +28,9 @@
 *.app
 **/Debug/
 **/Release/
+*.gz
+*.opensdf
+*.sdf
+**/.vs/
+*.cod
+**/Release Static/
